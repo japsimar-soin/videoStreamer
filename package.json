@@ -1,0 +1,11 @@
+{
+  "name": "videostreamer",
+  "version": "1.0.0",
+  "description": "Video streaming application built focussing on backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Japsimar Soin",
+  "license": "ISC"
+}
